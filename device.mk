@@ -71,17 +71,9 @@ PRODUCT_PACKAGES += \
     init.recovery.keyaki \
     init.keyaki
 
-# Lights
-PRODUCT_PACKAGES += \
-    lights.keyaki
-
 # Simple PowerHAL
 PRODUCT_PACKAGES += \
     power.keyaki
-
-# Fingerprint HAL
-PRODUCT_PACKAGES += \
-    fingerprint.keyaki
 
 # NFC config
 PRODUCT_PACKAGES += \
