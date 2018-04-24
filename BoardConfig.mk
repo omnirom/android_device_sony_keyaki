@@ -14,10 +14,7 @@
 
 include device/sony/tone-common/PlatformConfig.mk
 
-TARGET_BOOTLOADER_BOARD_NAME := G8231
-
-# Platform
-PRODUCT_PLATFORM := tone
+TARGET_BOOTLOADER_BOARD_NAME := tone
 
 WIFI_BUS := PCIE
 
