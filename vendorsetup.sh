@@ -14,4 +14,6 @@
 # limitations under the License.
 #
 
+add_lunch_combo omni_keyaki-user
 add_lunch_combo omni_keyaki-userdebug
+add_lunch_combo omni_keyaki-eng
