@@ -26,7 +26,7 @@ PRODUCT_NAME := omni_keyaki
 PRODUCT_MODEL := Xperia XZs
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := none
+TARGET_OTA_ASSERT_DEVICE := keyaki
 
 # Inherit rom parts
 $(call inherit-product, device/sony/common/omni.mk)
